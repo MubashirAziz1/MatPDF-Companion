@@ -2,7 +2,6 @@ import requests
 import PyPDF2
 import re
 import os
-import requests
 import pandas as pd
 import tiktoken
 import time
