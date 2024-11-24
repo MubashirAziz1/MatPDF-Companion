@@ -11,7 +11,7 @@ from groq import Groq
 import numpy as np
 
 
-api_key='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'
+## api_key='aaaaaabbbabababababbababbabababbab'
 client = Groq(api_key=api_key)
 
 
